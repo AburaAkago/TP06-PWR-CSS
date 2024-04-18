@@ -1,0 +1,13 @@
+h1 {
+  color: green;
+  font-size: 26px;
+}
+h2 {
+  color: darkblue;
+  font-size: 20px;
+}
+p {
+  color: darkgrey;
+  font-size: 16px;
+  font-style: oblique;
+}
